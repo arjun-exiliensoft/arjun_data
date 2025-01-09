@@ -1,109 +1,109 @@
 {
-  "userList": [
+  "data": [
     {
-    id: 1,
-    fullName: "John Doe",
-    email: "john.doe@example.com",
-    bio: "Admin",
-    profileImageUrl: "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "id": 1,
+      "fullName": "John Doe",
+      "email": "john.doe@example.com",
+      "bio": "Admin",
+      "profileImageUrl": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
     },
     {
-    id: 2,
-    fullName: "Jane Smith",
-    email: "jane.smith@example.com",
-    bio: "Editor",
-    profileImageUrl: "https://eu.ui-avatars.com/api/?name=John+Doe&size=250",
+      "id": 2,
+      "fullName": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "bio": "Editor",
+      "profileImageUrl": "https://eu.ui-avatars.com/api/?name=John+Doe&size=250"
     },
     {
-    id: 3,
-    fullName: "Michael Johnson",
-    email: "michael.johnson@example.com",
-    bio: "Manager",
-    profileImageUrl: "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "id": 3,
+      "fullName": "Michael Johnson",
+      "email": "michael.johnson@example.com",
+      "bio": "Manager",
+      "profileImageUrl": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
     },
     {
-    id: 4,
-    fullName: "Emily Davis",
-    email: "emily.davis@example.com",
-    bio: "Designer",
-    profileImageUrl: "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "id": 4,
+      "fullName": "Emily Davis",
+      "email": "emily.davis@example.com",
+      "bio": "Designer",
+      "profileImageUrl": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
     },
     {
-    id: 5,
-    fullName: "William Brown",
-    email: "william.brown@example.com",
-    bio: "Developer",
-    profileImageUrl: "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "id": 5,
+      "fullName": "William Brown",
+      "email": "william.brown@example.com",
+      "bio": "Developer",
+      "profileImageUrl": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
     },
     {
-    id: 6,
-    fullName: "Linda White",
-    email: "linda.white@example.com",
-    bio: "Support",
-    profileImageUrl: "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "id": 6,
+      "fullName": "Linda White",
+      "email": "linda.white@example.com",
+      "bio": "Support",
+      "profileImageUrl": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
     },
     {
-    id: 7,
-    fullName: "James Wilson",
-    email: "james.wilson@example.com",
-    bio: "HR",
-    profileImageUrl: "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "id": 7,
+      "fullName": "James Wilson",
+      "email": "james.wilson@example.com",
+      "bio": "HR",
+      "profileImageUrl": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
     },
     {
-    id: 8,
-    fullName: "Patricia Martinez",
-    email: "patricia.martinez@example.com",
-    bio: "Coordinator",
-    profileImageUrl: "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "id": 8,
+      "fullName": "Patricia Martinez",
+      "email": "patricia.martinez@example.com",
+      "bio": "Coordinator",
+      "profileImageUrl": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
     },
     {
-    id: 9,
-    fullName: "Robert Taylor",
-    email: "robert.taylor@example.com",
-    bio: "Admin",
-    profileImageUrl: "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "id": 9,
+      "fullName": "Robert Taylor",
+      "email": "robert.taylor@example.com",
+      "bio": "Admin",
+      "profileImageUrl": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
     },
     {
-    id: 10,
-    fullName: "Jennifer Anderson",
-    email: "jennifer.anderson@example.com",
-    bio: "Marketing",
-    profileImageUrl: "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "id": 10,
+      "fullName": "Jennifer Anderson",
+      "email": "jennifer.anderson@example.com",
+      "bio": "Marketing",
+      "profileImageUrl": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
     },
     {
-    id: 11,
-    fullName: "Charles Thomas",
-    email: "charles.thomas@example.com",
-    bio: "Consultant",
-    profileImageUrl: "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "id": 11,
+      "fullName": "Charles Thomas",
+      "email": "charles.thomas@example.com",
+      "bio": "Consultant",
+      "profileImageUrl": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
     },
     {
-    id: 12,
-    fullName: "Sarah Jackson",
-    email: "sarah.jackson@example.com",
-    bio: "Editor",
-    profileImageUrl: "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "id": 12,
+      "fullName": "Sarah Jackson",
+      "email": "sarah.jackson@example.com",
+      "bio": "Editor",
+      "profileImageUrl": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
     },
     {
-    id: 13,
-    fullName: "Daniel Moore",
-    email: "daniel.moore@example.com",
-    bio: "Analyst",
-    profileImageUrl: "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "id": 13,
+      "fullName": "Daniel Moore",
+      "email": "daniel.moore@example.com",
+      "bio": "Analyst",
+      "profileImageUrl": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
     },
     {
-    id: 14,
-    fullName: "Jessica Garcia",
-    email: "jessica.garcia@example.com",
-    bio: "Writer",
-    profileImageUrl: "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "id": 14,
+      "fullName": "Jessica Garcia",
+      "email": "jessica.garcia@example.com",
+      "bio": "Writer",
+      "profileImageUrl": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
     },
     {
-    id: 15,
-    fullName: "Matthew Martinez",
-    email: "matthew.martinez@example.com",
-    bio: "Team Lead",
-    profileImageUrl: "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
-    },
-  ];
+      "id": 15,
+      "fullName": "Matthew Martinez",
+      "email": "matthew.martinez@example.com",
+      "bio": "Team Lead",
+      "profileImageUrl": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  ]
 }
