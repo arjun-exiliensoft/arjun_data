@@ -143,19 +143,19 @@
   ],
   "userStatistics": [
     {
-      "Users": {
+      "users": {
         "totalUser": "20",
         "growthPer": "12.5"
       },
-      "Revenue": {
+      "revenue": {
         "totalRevenue": "5678",
         "growthPer": "8.3"
       },
-      "Orders": {
+      "orders": {
         "totalOrders": "567",
         "growthPer": "-3.2"
       },
-      "Comments": {
+      "comments": {
         "totalComments": "890",
         "growthPer": "5.7"
       }
