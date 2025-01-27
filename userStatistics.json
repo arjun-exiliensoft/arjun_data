@@ -1,0 +1,22 @@
+{
+  "userStatistics": [
+    {
+      "Users": {
+        "totalUser": "1234",
+        "growthPer": "12.5"
+      },
+      "Revenue": {
+        "totalRevenue": "5678",
+        "growthPer": "8.3"
+      },
+      "Orders": {
+        "totalOrders": "567",
+        "growthPer": "-3.2"
+      },
+      "Comments": {
+        "totalComments": "890",
+        "growthPer": "5.7"
+      }
+    }
+  ]
+}
