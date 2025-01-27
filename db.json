@@ -106,40 +106,59 @@
       "profileImageUrl": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
     },
     {
-        "id": 16,
-        "fullName": "Sophia Robinson",
-        "email": "sophia.robinson@example.com",
-        "bio": "Project Manager",
-        "profileImageUrl": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+      "id": 16,
+      "fullName": "Sophia Robinson",
+      "email": "sophia.robinson@example.com",
+      "bio": "Project Manager",
+      "profileImageUrl": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    },
+    {
+      "id": 17,
+      "fullName": "David Harris",
+      "email": "david.harris@example.com",
+      "bio": "Security",
+      "profileImageUrl": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    },
+    {
+      "id": 18,
+      "fullName": "Olivia Clark",
+      "email": "olivia.clark@example.com",
+      "bio": "Sales",
+      "profileImageUrl": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    },
+    {
+      "id": 19,
+      "fullName": "Ethan Lewis",
+      "email": "ethan.lewis@example.com",
+      "bio": "Quality Assurance",
+      "profileImageUrl": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    },
+    {
+      "id": 20,
+      "fullName": "Ava Walker",
+      "email": "ava.walker@example.com",
+      "bio": "Content Strategist",
+      "profileImageUrl": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  ],
+  "userStatistics": [
+    {
+      "Users": {
+        "totalUser": "1234",
+        "growthPer": "12.5"
       },
-      {
-        "id": 17,
-        "fullName": "David Harris",
-        "email": "david.harris@example.com",
-        "bio": "Security",
-        "profileImageUrl": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+      "Revenue": {
+        "totalRevenue": "5678",
+        "growthPer": "8.3"
       },
-      {
-        "id": 18,
-        "fullName": "Olivia Clark",
-        "email": "olivia.clark@example.com",
-        "bio": "Sales",
-        "profileImageUrl": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+      "Orders": {
+        "totalOrders": "567",
+        "growthPer": "-3.2"
       },
-      {
-        "id": 19,
-        "fullName": "Ethan Lewis",
-        "email": "ethan.lewis@example.com",
-        "bio": "Quality Assurance",
-        "profileImageUrl": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
-      },
-      {
-        "id": 20,
-        "fullName": "Ava Walker",
-        "email": "ava.walker@example.com",
-        "bio": "Content Strategist",
-        "profileImageUrl": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+      "Comments": {
+        "totalComments": "890",
+        "growthPer": "5.7"
       }
-      
+    }
   ]
 }
