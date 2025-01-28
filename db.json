@@ -197,5 +197,31 @@
     }
   ]
 }
-  ]
+  ],
+  "activities":[
+  {
+    "id": 1,
+    "action": "New order received",
+    "time": "5 minutes ago",
+    "type": "order"
+  },
+  {
+    "id": 2,
+    "action": "Server CPU usage high",
+    "time": "15 minutes ago",
+    "type": "system"
+  },
+  {
+    "id": 3,
+    "action": "New user registered",
+    "time": "1 hour ago",
+    "type": "user"
+  },
+  {
+    "id": 4,
+    "action": "Product stock low",
+    "time": "2 hours ago",
+    "type": "inventory"
+  }
+]
 }
