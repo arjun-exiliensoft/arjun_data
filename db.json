@@ -225,7 +225,6 @@
   }
 ],
    "topProducts":[
-     [
   {
     "id": 1,
     "name": "Wireless Earbuds",
@@ -254,6 +253,5 @@
     "revenue": "$3,900",
     "trend": "up"
   }
-]
    ]
 }
