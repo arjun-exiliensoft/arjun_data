@@ -223,5 +223,38 @@
     "time": "2 hours ago",
     "type": "inventory"
   }
+],
+   "topProducts":[
+     [
+  {
+    "id": 1,
+    "name": "Wireless Earbuds",
+    "sales": 245,
+    "revenue": "$12,450",
+    "trend": "up"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "sales": 190,
+    "revenue": "$9,500",
+    "trend": "up"
+  },
+  {
+    "id": 3,
+    "name": "Laptop Stand",
+    "sales": 175,
+    "revenue": "$4,375",
+    "trend": "down"
+  },
+  {
+    "id": 4,
+    "name": "USB-C Hub",
+    "sales": 156,
+    "revenue": "$3,900",
+    "trend": "up"
+  }
 ]
+
+   ]
 }
